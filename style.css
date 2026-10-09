@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(221, 229, 233);
+}
+
+.container{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
